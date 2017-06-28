@@ -1,0 +1,22 @@
+/* add your CSS here */
+.italic{
+       font-style: italic;
+}
+ul{
+    list-style-margin: none;
+    margin: 0;
+    padding: 0;
+}
+.thick{
+      font-weight: bold;
+}
+.solid{
+       border-style: solid;
+       border: 1px solid black;
+}
+.ex1{
+     padding: 1cm;
+}
+.ex2{
+     padding: 1cm;
+}
